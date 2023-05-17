@@ -1,0 +1,15 @@
+{
+  "name": "newattempt",
+  "version": "1.0.0",
+  "description": "the purpose of this project is to demonstrate that I understand the test process which I copied from Chat GPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
